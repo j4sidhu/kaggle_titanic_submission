@@ -7,8 +7,7 @@ engineering. I will be working on improving this further. I had a 76.08% accurac
 public leaderboard on kaggle with the submission using this code.
 
 I decided to tackle this dataset after kaggle recommened it for people new to
-machine
-learning.
+machine learning.
 """
 
 import numpy as np
